@@ -1,0 +1,6 @@
+[AutoRun]
+Label=The One True God
+Icon=onetruegod.ico
+shellexecute="readme.txt"
+Action=Start Readme
+UseAutoplay=1 
