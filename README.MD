@@ -1,4 +1,4 @@
-#Lock Your Computers Damn it!
+# Lock Your Computers Damn it!
 
 A while ago I heard a story of a company that would change a whole bunch of setting from your computer if you walked away without locking it. 
 
@@ -9,13 +9,13 @@ This will change the background to one of many memes of nick cage (/r/onetruegod
 Also this is intended to be loaded up on a flash drive with equally commedic effect on the icon and display name. 
 
 
-#Getting Started
+# Getting Started
 
 1. Victims computer must have the execution policy allow unsigned scripts (or just unrestricted)
 2. Run the Prank.ps1 file  
 3. Run the UndoPrank.ps1 file
 
-#Victims 
+# Victims 
 
 This is ment to be a light hearted work prank. You can easily undo the damage (if you can get your mouse to click correctly) by opening the UndoWackyChanges folder that appears on your desktop.
 
@@ -32,7 +32,7 @@ Deleted the folder?
 No worries, a second backup was made on your pranksters flashdrive (they have a heart afterall) 
 Ask them to check your Undo directory with your username and PC name labeling the background image and cursor (though honestly, who changes their cursor?)
 
-#Future thoughts 
+# Future thoughts 
 
 Change the login/logoff/lock windows sounds (hence the other files.)
 
